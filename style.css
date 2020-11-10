@@ -1,0 +1,71 @@
+body {
+  background-color: black;
+}
+
+.nav-wrapper {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.homepage {
+  padding-bottom: 50px;
+}
+
+.face-picture {
+  height: auto;
+  border-radius: 2.5%;
+}
+
+.entry-text {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  color: orange;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+h1 span {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+  margin-top: 20px;
+  font-weight: 700;
+}
+
+.entry-text h5 {
+  font-weight: 300;
+}
+
+.home-details {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section {
+  padding-top: 4vw;
+  padding-bottom: 4vw;
+  background-color: black;
+}
+
+p {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.parallax-container {
+  height: 400px;
+}
+
+.card .card-title {
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
