@@ -46,8 +46,8 @@ h1 span {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .section {
@@ -67,5 +67,10 @@ p {
 
 .card .card-title {
   font-weight: bold;
+}
+
+.footer-copyright {
+  background-color: #424242;
+  padding: 10px;
 }
 /*# sourceMappingURL=style.css.map */
